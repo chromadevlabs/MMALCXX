@@ -1,2 +1,2 @@
 # MMALCXX
-A very thin/naive C++ wrapper for Raspberry Pi MMAL
+Originally this was supposed to be a full C++ wrapper for Broadcom MMAL but it is the minimum to get the Pi camera working!
